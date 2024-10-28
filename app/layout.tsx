@@ -1,5 +1,5 @@
 import { Suspense } from "react";
-import "@/assets/globals.scss";
+import "@/styles/globals.scss";
 import { NavLinks } from "@/components/nav-links";
 import Loading from "./loading";
 
